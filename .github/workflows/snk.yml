@@ -1,0 +1,31 @@
+name: Generate Pac-Man graph
+
+on:
+  schedule:
+    # roda 1x por dia às 03:00 UTC (ajuste se quiser)
+    - cron: '0 3 * * *'
+  workflow_dispatch:      # permite executar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PAT_1: ${{ secrets.PAT_1 }}   # <-- o secret que você acabou de criar
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate the graph SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jeffersonbrunoo
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg
+
+      - name: Commit & push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: 'chore: update pac-man contribution graph 🟡'
+          add: 'output/*.svg'
