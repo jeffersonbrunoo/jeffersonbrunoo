@@ -7,29 +7,20 @@
 
 ## Sobre mim
 
-- 👨‍🎓 Tecnólogo em Gestão da Qualidade (Fac. Maurício de Nassau) :contentReference[oaicite:0]{index=0}  
-- 🏆 Certificado em Desenvolvimento Web Full Stack, Back-end, Front-end e Python (Trybe, 2023) :contentReference[oaicite:1]{index=1}  
+- 👨‍🎓 Tecnólogo em Gestão da Qualidade (Fac. Maurício de Nassau)  
+- 🏆 Certificado em Desenvolvimento Web Full Stack, Back-end, Front-end e Python (Trybe, 2023)  
 - ⚛️ Especialista em React, Node.js, TypeScript e Python  
 - 🛠️ Apaixonado por automação, testes e boas práticas de código  
 
 ---
-<br/>
-
-<!-- Contribution graph (troque para o seu gerador favorito ou remova) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffersonbrunoo/jeffersonbrunoo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeffersonbrunoo/jeffersonbrunoo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeffersonbrunoo/jeffersonbrunoo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/jeffersonbrunoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonbrunoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonbrunoo&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeffersonbrunoo&show_icons=true&theme=radical&hide=contribs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonbrunoo&layout=compact&langs_count=6&theme=radical"/>
 </a>
+
+---
 
 ## 🚀 Meus projetos
 Organizo meus trabalhos em [portfólio-xi-rose](https://portifolio-xi-rose.vercel.app/).  
@@ -38,7 +29,6 @@ Lá você encontra estudos, desafios resolvidos e produtos prontos para produç�
 > Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, inspirar outros devs. 💙
 
 ## Tecnologias e linguagens 💻
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
