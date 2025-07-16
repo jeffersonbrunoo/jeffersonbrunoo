@@ -25,8 +25,6 @@
 
 ## 🚀 Meus projetos
 Organizo meus trabalhos em [**portfólio-xi-rose**](https://portifolio-xi-rose.vercel.app/).  
-Lá você encontra estudos, desafios resolvidos e produtos prontos para produção.
-
 > Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, inspirar outros devs. 💙
 
 ---
