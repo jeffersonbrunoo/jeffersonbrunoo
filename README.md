@@ -68,12 +68,3 @@ Lá você encontra estudos, desafios resolvidos e produtos prontos para produç�
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jeffersonbrunoo.jeffersonbrunoo&left_color=darkblue&right_color=blueviolet" width="80"/>
 </div>
 
-<div align="center">
-  <!-- Activity graph, streaks e troféus -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffersonbrunoo&bg_color=0d1117&color=007acc&line=00ccff&point=00ccff&area=true&hide_border=true" height="180"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=jeffersonbrunoo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=jeffersonbrunoo&theme=omni&column=2&row=1&no-frame=true&no-bg=true" height="150"/>
-</div>
-
