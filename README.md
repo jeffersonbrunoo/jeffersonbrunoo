@@ -15,17 +15,6 @@
 
 ---
 
-## 🕹️ Contribution Graph (Pac-Man Style)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffersonbrunoo/jeffersonbrunoo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeffersonbrunoo/jeffersonbrunoo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeffersonbrunoo/jeffersonbrunoo/output/pacman-contribution-graph.svg">
-</picture>
-
-> ℹ️ Para gerar o gráfico, ative o workflow baseado no repositório **[Platane/snk](https://github.com/Platane/snk)** (ou similar) no seu perfil.
-
----
-
 ## ⭐ GitHub Stats
 <a href="https://github.com/jeffersonbrunoo">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeffersonbrunoo&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats"/>
@@ -80,14 +69,3 @@ Lá você encontra estudos, desafios resolvidos e produtos prontos para produç�
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jeffersonbrunoo.jeffersonbrunoo&left_color=darkblue&right_color=blueviolet" width="90"/>
 </div>
-
-<div align="center">
-  <!-- Activity graph, streaks e troféus -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffersonbrunoo&bg_color=0d1117&color=007acc&line=00ccff&point=00ccff&area=true&hide_border=true" height="180" alt="Activity Graph"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=jeffersonbrunoo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=jeffersonbrunoo&theme=omni&column=2&row=1&no-frame=true&no-bg=true" height="150" alt="GitHub Trophies"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:004FFF,100:001133" alt="Footer Wave"/>
