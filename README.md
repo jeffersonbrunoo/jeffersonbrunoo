@@ -77,4 +77,3 @@ Lá você encontra estudos, desafios resolvidos e produtos prontos para produç�
   <img src="https://github-profile-trophy.vercel.app?username=jeffersonbrunoo&theme=omni&column=2&row=1&no-frame=true&no-bg=true" height="150"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:004FFF,100:001133"/>
