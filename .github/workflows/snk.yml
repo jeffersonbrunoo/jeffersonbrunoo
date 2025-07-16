@@ -23,9 +23,12 @@ jobs:
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg
 
-      - name: Commit & push to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: output
-          message: 'chore: update pac-man contribution graph 🟡'
-          add: 'output/*.svg'
+            - name: Commit & push to output branch
+                uses: EndBug/add-and-commit@v9
+              with:
+          github_token: ${{ secrets.PAT_1 }}   # usa o PAT que você salvou
+          new_branch: output                  # cria/atualiza o branch output
+          add: "output/*.svg"                 # arquivos a adicionar
+          message: "chore: update pac-man contribution graph 🟡"
+          default_author: github_actions      # assina como o bot
+
